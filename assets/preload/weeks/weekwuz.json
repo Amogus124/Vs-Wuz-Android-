@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Yuutie",
+			"yuumi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Harmless",
+			"yuumi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "wuz",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "UwU supremacy UwU UwU UwU UwU UwU UwU UwU UwU",
+	"weekName": "weekwuz",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
